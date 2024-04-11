@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+  box-sizing: border-box;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-smi: 0.813rem;
+  --font-size-3xs: 0.625rem;
+  --font-size-xs: 0.75rem;
+  --font-size-mini: 0.938rem;
+  --font-size-lg: 1.125rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-dodgerblue: #4c82ef;
+  --color-slategray: #7a7f8c;
+  --color-darkgray: #b1b1b1;
+  --color-lavender: #e3ecff;
+  --color-gray: #949494;
+  --color-gainsboro: #dbdbdb;
+  --color-dimgray-100: #737373;
+  --color-dimgray-200: #666;
+  --color-whitesmoke: #f4f4f4;
+  --color-ghostwhite: #f6f9ff;
+  --color-darkslategray: #333;
+  --color-aliceblue-100: #f2f7ff;
+  --color-aliceblue-200: #eef3fd;
+  --color-lightgoldenrodyellow: #dcf7c5;
+  --color-limegreen: #3fe225;
+
+  /* Gaps */
+  --gap-8xs: 0.313rem;
+  --gap-3xs: 0.625rem;
+  --gap-xl: 1.25rem;
+  --gap-11xs: 0.125rem;
+  --gap-2xs: 0.688rem;
+  --gap-6xs: 0.438rem;
+
+  /* Paddings */
+  --padding-91xl: 6.875rem;
+  --padding-8xs: 0.313rem;
+  --padding-3xs: 0.625rem;
+  --padding-5xs: 0.5rem;
+  --padding-12xl: 1.938rem;
+  --padding-base-5: 0.969rem;
+  --padding-mini: 0.938rem;
+  --padding-12xs: 0.063rem;
+  --padding-4xs: 0.563rem;
+  --padding-lgi: 1.188rem;
+  --padding-31xl: 3.125rem;
+  --padding-13xl: 2rem;
+  --padding-xl: 1.25rem;
+  --padding-31xl-5: 3.156rem;
+  --padding-6xl: 1.563rem;
+  --padding-11xs: 0.125rem;
+  --padding-10xs-5: 0.156rem;
+  --padding-5xs-8: 0.488rem;
+  --padding-sm: 0.875rem;
+  --padding-29xl: 3rem;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-mini: 15px;
+  --br-11xl: 30px;
+}

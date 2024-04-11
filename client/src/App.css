@@ -1,0 +1,12 @@
+.main-container {
+  background: linear-gradient( 156.72deg,
+    #e6eeff,
+    rgba(230, 238, 255, 0) 72.31%);
+    max-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-91xl) 0; 
+    box-sizing: border-box;
+}
+
